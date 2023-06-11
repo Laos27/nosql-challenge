@@ -11,3 +11,5 @@ Deliverable 2: A contains code that performs the exploratory analysis queries in
 3. What are the top 5 establishments with a RatingValue of '5', sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
 4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas. 
 
+**Note**
+"NoSQL_setup_starter.ipnyb" is not opening; however, if you download the raw file will show you all the code.
